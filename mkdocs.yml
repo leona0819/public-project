@@ -1,6 +1,3 @@
-site_name: Fraud Analytics Platform
-theme:
-  name: material
-nav:
-  - Home: index.md
-  - Account: account.md
+site_name: Experience and Expertise
+site_url: https://leona0819.github.io/my-experience
+theme: material
