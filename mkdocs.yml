@@ -1,3 +1,10 @@
 site_name: Experience and Expertise
 site_url: https://leona0819.github.io/my-experience
 theme: material
+
+nav:
+  - Home: index.md
+  - Fraud Detection: fraud-detection.md
+  - 反欺诈知识分享: fraud-knowledge.md
+  - Marketing Analytics: marketing-analytics.md
+  - Technical Expertise: technical-expertise.md
